@@ -1,5 +1,6 @@
 # SDE-intern-oct
 
+- Pardeep Singh fw19_1049
 - Rahul Kumar fw19_0544
 - Abrar Aalam fw19_0730
 - Ashish Gupta fw20_0771
